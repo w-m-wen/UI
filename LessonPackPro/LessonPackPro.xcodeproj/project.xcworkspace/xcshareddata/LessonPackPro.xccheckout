@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>20390BFC-2C28-4E27-96CF-A9B610C234EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LessonPackPro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AEF9DC3421E7E3AB47E3F0785E0DE119DBC00F94</key>
+		<string>github.com:w-m-wen/UI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LessonPackPro/LessonPackPro.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AEF9DC3421E7E3AB47E3F0785E0DE119DBC00F94</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:w-m-wen/UI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AEF9DC3421E7E3AB47E3F0785E0DE119DBC00F94</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AEF9DC3421E7E3AB47E3F0785E0DE119DBC00F94</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
